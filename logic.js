@@ -1,1 +1,1 @@
-alert('Hola mundo')
+document.write('La suma es', 3+5);
